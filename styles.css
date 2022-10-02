@@ -74,8 +74,8 @@ h1{
   .material-symbols-outlined{
     display: flex;
     justify-content: flex-end;
-    padding: 20px 20px 0 0;
-    font-size: 40px;
+    padding: 10px 10px 0 0;
+    font-size: 20px;
   }
 }
 
@@ -110,7 +110,7 @@ h1{
   }
   @media(max-width:480px){
     .product-content  p{
-      margin-top: 50px;
+      margin-top: 10px;
       align-content: center;
       align-items: center;
       text-align: justify;
